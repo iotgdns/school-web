@@ -207,7 +207,7 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("https://lh3.googleusercontent.com/NvNcUtCPC1I4zg3F3dnDm31EPFt0Z14KcS6FYOAd77o9qdXWOK5prBv4bbyy5GDl16jRxyoma_Lsitkscnjgw3xZOXMXPUEwz8NylOhJYe99T1LUaVlVz9yLfZwZrikGj1Z1fMF1=w2400") center top no-repeat;
+  background: #f5f8fd url("./../img/bg.svg") center top no-repeat;
   background-size: cover;
 }
 
